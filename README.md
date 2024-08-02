@@ -1,3 +1,5 @@
+![Arceus X Logo](https://github.com/IvanTheProtogen/Arceus-X-docs/raw/main/Logo.png)
+
 > [ ⚠️ ] This Arceus X documentation is unfull, mistakes might be inbound.
 
 # 1. Introduction to Arceus X. 
